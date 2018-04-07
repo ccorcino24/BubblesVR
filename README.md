@@ -56,3 +56,8 @@ Curve-Point: Defines the curve based on its position.
 In Part 1 under our sphere variable, we created our path and set the attributes. For Part 2, we actually have curve points that we appended to our path (curves) which is essentially a beginning and endpoint for our sphere.
 
 If you go into finder and open your bubbles.html file with firefox or chrome if you click and move your view, you should find your bubbles.
+
+
+Step 8 (optional):
+This link will help you learn how to pulish your A-frame App
+https://aframe.io/docs/0.8.0/introduction/hosting-and-publishing.html
