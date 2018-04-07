@@ -5,3 +5,6 @@ As the world becomes more and more smitten with virtual reality, now is the best
 
 
 Don't worry if you get lost! Use this repo to help you follow along :)
+
+The link below contains the slides to help you set up the app step by step:
+https://slides.com/charityc/intro-into-vr-with-a-frame/
