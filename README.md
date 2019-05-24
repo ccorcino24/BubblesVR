@@ -59,5 +59,5 @@ If you go into finder and open your bubbles.html file with firefox or chrome whe
 
 
 Step 8 (optional):
-This link will help you learn how to pulish your A-frame App
+This link will help you learn how to publish your A-frame App
 https://aframe.io/docs/0.8.0/introduction/hosting-and-publishing.html
